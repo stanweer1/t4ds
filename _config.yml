@@ -7,9 +7,9 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Topology For Data Science
+title: TDA Workshop Tutorial
 # Description of the Site
-description: An NSF Workshop for Undergraduates in Bozeman, Montana
+description: A Workshop for Fundamentals of Topological Data Analysis
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
